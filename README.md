@@ -1,2 +1,4 @@
-# buissnes-card-page
-My first website
+# wizytowka
+Moja pierwsza strona wizytówka, zapraszam do oceniania :)
+
+I pierwszy commit :P
